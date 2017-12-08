@@ -4,6 +4,8 @@
     <types>
         <members>ALMAccount</members>
         <members>ALMAccount1</members>
+        <members>AS1</members>
+        <members>AS2</members>
         <name>ApexClass</name>
     </types>
 </Package>
