@@ -7,4 +7,3 @@ Account acc1= new Account();
 acc1.Name = name;
 return acc1;
 }
-}
