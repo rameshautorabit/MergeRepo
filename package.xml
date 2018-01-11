@@ -10,6 +10,7 @@
         <members>DClass5</members>
         <members>Dclass6</members>
         <members>VSTSTest2</members>
+        <members>VSTSTest4</members>
         <name>ApexClass</name>
     </types>
 </Package>
