@@ -6,6 +6,8 @@
         <members>A0233</members>
         <members>A081</members>
         <members>A08123</members>
+        <members>A28</members>
+        <members>A29</members>
         <members>A7891</members>
         <members>ALMAccount</members>
         <members>ALMAccount1</members>
@@ -19,6 +21,8 @@
         <members>VSTSTest2</members>
         <members>VSTSTest4</members>
         <members>VSTSTest5</members>
+        <members>a28testclass</members>
+        <members>a29testclass</members>
         <name>ApexClass</name>
     </types>
 </Package>
