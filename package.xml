@@ -9,6 +9,8 @@
         <members>A090</members>
         <members>A1</members>
         <members>A12</members>
+        <members>A20</members>
+        <members>A23</members>
         <members>A28</members>
         <members>A29</members>
         <members>A600</members>
@@ -27,6 +29,8 @@
         <members>VSTSTest5</members>
         <members>a12testclass</members>
         <members>a1testclass</members>
+        <members>a20testclass</members>
+        <members>a23testclass</members>
         <members>a28testclass</members>
         <members>a29testclass</members>
         <name>ApexClass</name>
