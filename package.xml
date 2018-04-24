@@ -9,6 +9,10 @@
         <members>A090</members>
         <members>A1</members>
         <members>A12</members>
+        <members>A13</members>
+        <members>A14</members>
+        <members>A16</members>
+        <members>A17</members>
         <members>A20</members>
         <members>A23</members>
         <members>A28</members>
@@ -28,6 +32,10 @@
         <members>VSTSTest4</members>
         <members>VSTSTest5</members>
         <members>a12testclass</members>
+        <members>a13testclass</members>
+        <members>a14testclass</members>
+        <members>a16testclass</members>
+        <members>a17testclass</members>
         <members>a1testclass</members>
         <members>a20testclass</members>
         <members>a23testclass</members>
