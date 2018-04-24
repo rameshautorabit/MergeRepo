@@ -13,6 +13,7 @@
         <members>A14</members>
         <members>A16</members>
         <members>A17</members>
+        <members>A19</members>
         <members>A20</members>
         <members>A23</members>
         <members>A28</members>
@@ -36,6 +37,7 @@
         <members>a14testclass</members>
         <members>a16testclass</members>
         <members>a17testclass</members>
+        <members>a19testclass</members>
         <members>a1testclass</members>
         <members>a20testclass</members>
         <members>a23testclass</members>
